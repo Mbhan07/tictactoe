@@ -2,6 +2,20 @@
 
 #include <cstring>
 
+/*
+
+This is a two player tic-tac-toe game. Created by Mahika Bhan, 10/15/2024
+
+Concepts of interest:
+
+ - using cstring library to compare user input
+ - using for loops to iteratre through two dimensional arrays
+ - using functions/methods to avoid redundancy
+ - enjoy!
+ - this is my 3rd different variation of this project
+ */  
+
+
 using namespace std;
 
 
